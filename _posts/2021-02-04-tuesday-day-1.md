@@ -52,7 +52,7 @@ Computational Models of Narrative and Social Justice, [Rogelio E. Cardona-Rivera
    Speaker: Zheyuan Ryan Shi, Mentor: Shiwali Mohan, Buddy: Dario Guidotti
 2. How Human Centered AI Will Contribute Towards Intelligent Gaming Systems \
    Speaker: Yilei Zeng, Mentor: Mark O. Riedl, Buddy: Ivan Stelmakh
-3. Perception Beyond Sensors Under Uncertainty
+3. Perception Beyond Sensors Under Uncertainty \
    Speaker: Masha Itkina, Mentor: Sven Koenig, Buddy: Mehrnoosh Mirtaheri
    
 3:30 pm - 4:00 pm, Break and Interactions with the Speakers
