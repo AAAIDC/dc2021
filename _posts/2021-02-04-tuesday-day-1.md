@@ -4,7 +4,8 @@ title:  "Tuesday, February 2nd"
 permalink: /day1/
 ---
 
-Please note that all times are Pacific Time (GMT-8). 
+Please note that all times are Pacific Time (GMT-8). Current time is <a href="//24timezones.com/usa_time/ca_santa_clara/cupertino.php" style="text-decoration: none" class="clock24" id="tz24-1612034565-cu106157-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMCIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Cupertino actual time" target="_blank" rel="nofollow">AAAI DC</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 
 
 7:00 am - 7:30 am, Welcome and Logistics 
